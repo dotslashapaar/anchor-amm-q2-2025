@@ -1,4 +1,4 @@
-# Anchor AMM - Q4 2024
+# Anchor AMM - Q2 2025
 
 This project implements an Automated Market Maker (AMM) on the Solana blockchain using the Anchor framework. It's designed to facilitate liquidity pools and token swaps with high efficiency and security.
 
